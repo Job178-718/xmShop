@@ -2,8 +2,6 @@
 
 **基于SSM+Bootstrap+Maven+Redis+Mysql的商城系统**
 
-> 我的博客：[https://www.xmlvhy.com](https://www.xmlvhy.com "https://www.xmlvhy.com")
-
 ##### 一、整体框架介绍
 ###### 1.1、背景
 在学习 SSM 以及 Boostrap框架时，为了整合所学（微信支付、登录or支付宝支付等）知识，这个购物商城项目也就出现了...对于ssm初学者来说，应该比较适合练手学习，可以根据自己想法进行功能扩展等...
